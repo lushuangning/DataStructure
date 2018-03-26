@@ -1,4 +1,4 @@
-#ifndef BITREE_H_INCLUDED
+﻿#ifndef BITREE_H_INCLUDED
 #define BITREE_H_INCLUDED
 
 

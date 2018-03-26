@@ -35,10 +35,17 @@
 		<Unit filename="include/tree/BiTree.h">
 			<Option target="Debug" />
 		</Unit>
+		<Unit filename="include/tree/SegmentTree.h">
+			<Option target="Debug" />
+		</Unit>
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="src/tree/BiTree.c">
+			<Option compilerVar="CC" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="src/tree/SegmentTree.c">
 			<Option compilerVar="CC" />
 			<Option target="Debug" />
 		</Unit>
